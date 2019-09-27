@@ -25,4 +25,4 @@ You can use the [editor on GitHub](https://github.com/FangJutiporn/5810210080.gi
 
 
 
-<img src="slide1.jpg" class="w3-border w3-padding" alt="Alps">
+<img src="Slide1.JPG" class="w3-border w3-padding" alt="Alps">
