@@ -26,8 +26,6 @@ You can use the [editor on GitHub](https://github.com/FangJutiporn/5810210080.gi
 
 <img src="Slide1.JPG" class="w3-border w3-padding" alt="Alps">
 
-<img src="Slide2.JPG" class="w3-border w3-padding" alt="Alps">
-
 <img src="Slide3.JPG" class="w3-border w3-padding" alt="Alps">
 
 <img src="Slide4.JPG" class="w3-border w3-padding" alt="Alps">
