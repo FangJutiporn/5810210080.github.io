@@ -2,37 +2,26 @@
 
 You can use the [editor on GitHub](https://github.com/FangJutiporn/5810210080.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### รายชื่อสมาชิก
 
-### Markdown
 นางสาวจุติพร            หมื่นดวง         รหัส 5810210080
 นางสาวธัญชนก         กุลทอง            รหัส  5810210756
 นางสาวธัญญลักษณ์   สุขสำเภา         รหัส 5810210758
 
-```markdown
-Syntax highlighted code block
+### วัตถุประสงค์
 
-# Header 1
-## Header 2
-### Header 3
+เพื่อให้ผู้ใช้มีความสะดวกในการสั่งซื้อเครื่องดื่มและอาหาร
+เพื่อให้ผู้ใช้มีความสะดวกและลดความซ้ำซ้อนในการรับ Order ของลูกค้า
+เพื่อสร้างโปรแกรมสั่งกาแฟจากโปรแกรม  Visaul Studio
 
-- Bulleted
-- List
+### ขอบเขตของโครงการ
 
-1. Numbered
-2. List
+ผู้ใช้มีความสะดวกและลดความซ้ำซ้อนในการสั่งซื้อเครื่องเครื่องดื่มและอาหารได้ตามต้องการ
+โปรแกรมสามารถคำนวณราคารวมของเครื่องดื่มและรายการอาหารทั้งหมดที่ซื้อได้
+สามารถส่งอีเมลล์รายการสั่งซื้อเครื่องดื่มและอาหารไปยังเจ้าของร้านได้
+สามารถจัดทำโปรแกรมสั่งซื้อเครื่องดื่มและอาหาร Coffee Cafe จาก โปรแกรม Visaul Studio ได้
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FangJutiporn/5810210080.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
